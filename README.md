@@ -2,6 +2,12 @@
 
 A talk at CodeMesh 2016 by [Glen Mailer](https://twitter.com/glenathan).
 
+### Watch the recording
+
+[![a Recording of the Talk](https://img.youtube.com/vi/62Y9JCOtzGY/0.jpg)](https://www.youtube.com/watch?v=62Y9JCOtzGY) 
+
+https://www.youtube.com/watch?v=
+
 ## Introduction
 
 The few iterations of this talk I've done to reach this point have had
