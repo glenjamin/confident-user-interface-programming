@@ -6,7 +6,7 @@ A talk at CodeMesh 2016 by [Glen Mailer](https://twitter.com/glenathan).
 
 [![a Recording of the Talk](https://img.youtube.com/vi/62Y9JCOtzGY/0.jpg)](https://www.youtube.com/watch?v=62Y9JCOtzGY) 
 
-https://www.youtube.com/watch?v=
+https://www.youtube.com/watch?v=62Y9JCOtzGY
 
 ## Introduction
 
